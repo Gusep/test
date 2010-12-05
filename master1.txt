@@ -1,3 +1,4 @@
 initial line MASTER
 
 stuff MASTER
+another stuff MASTER
