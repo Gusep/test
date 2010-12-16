@@ -3,4 +3,4 @@ initial line MASTER
 stuff MASTER
 another stuff MASTER
 
-ina zmena po reverte MASTER
+zmena MASTER
